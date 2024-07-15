@@ -17,10 +17,10 @@ font-size: 1em;
 line-height: 1.5em;
 }
 
-    .marked {
-        color:brown;
-        font-weight: bold;
-        font-style: italic;
-        text-decoration: underline;
-        letter-spacing: 0.5em;
+.marked {
+    color:brown;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    letter-spacing: 0.5em;
 }
