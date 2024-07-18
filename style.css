@@ -1,3 +1,6 @@
+
+
+
 body {
     font-size: 14px;
 }
@@ -7,6 +10,7 @@ body {
     color: rgb(255, 0, 51);
     font-size: 1.5em;
 
+     
 }
 
 
@@ -23,4 +27,21 @@ line-height: 1.5em;
     font-style: italic;
     text-decoration: underline;
     letter-spacing: 0.5em;
+}
+.text2 .marked {color: brown;}
+ol {
+    list-style-type:;
+    list-style-position: inside;
+    counter-reset: number;
+}
+ol li::before {
+content: counter(number) ') ';
+cout
+}
+#red {
+    color: red
+}
+#coral
+{
+    color: rgb(80, 255, 109)
 }
